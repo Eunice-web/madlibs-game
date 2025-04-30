@@ -1,5 +1,5 @@
 # Madlibs game
-# User will fill blank spaces to create a story
+# User will fill blank spaces to create a story!
 
 adjective1 = input('Enter an adjective (description) : ')
 noun = input('Enter a noun : ')
